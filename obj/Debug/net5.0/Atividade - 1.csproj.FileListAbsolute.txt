@@ -1,0 +1,16 @@
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\obj\Debug\net5.0\Atividade - 1.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\obj\Debug\net5.0\Atividade - 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\obj\Debug\net5.0\Atividade - 1.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\obj\Debug\net5.0\Atividade - 1.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\obj\Debug\net5.0\Atividade - 1.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\bin\Debug\net5.0\Atividade - 1.exe
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\bin\Debug\net5.0\Atividade - 1.deps.json
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\bin\Debug\net5.0\Atividade - 1.runtimeconfig.json
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\bin\Debug\net5.0\Atividade - 1.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\bin\Debug\net5.0\Atividade - 1.dll
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\bin\Debug\net5.0\ref\Atividade - 1.dll
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\bin\Debug\net5.0\Atividade - 1.pdb
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\obj\Debug\net5.0\Atividade - 1.dll
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\obj\Debug\net5.0\ref\Atividade - 1.dll
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\obj\Debug\net5.0\Atividade - 1.pdb
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 5 - Codificar aplicações web\Atividade - 1\obj\Debug\net5.0\Atividade - 1.genruntimeconfig.cache
